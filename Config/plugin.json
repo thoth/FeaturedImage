@@ -1,0 +1,16 @@
+{
+	"name": "FeaturedImage",
+	"description": "This plugin allows you to attach a featured image to a node.",
+
+	"author": "Thomas Rader",
+	"authorEmail": "tom.rader@claritymediasolutions.com",
+	"authorUrl": "http://claritymediasolutions.com",
+
+	"dependencies": {
+		"plugins": [
+			"acl",
+			"extensions",
+			"attachmentBrowser"
+		]
+	}
+}
